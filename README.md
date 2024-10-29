@@ -27,8 +27,11 @@ Titanic Survival Rate Analysis
 
   **Key Findings:**
         - The majority of the people on the Titanic were ranging from Age 18 to 35 (youth), whereas from age 60 and above were less represented.
+        
         - The maximum number of the people on the Titanic did not have any sibling or spouse.
+        
         - Many people from first class (rich) survived, followed by the lower class (surprisingly), then the middle class.
+        
         - Many females survived more than males, whereas many males died than females.
         
    **Conclusion:** The project successfully identified several factors that influenced passenger survival rates on the Titanic, including age, gender, and passenger class.
