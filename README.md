@@ -26,6 +26,7 @@ Titanic Survival Rate Analysis
     6. Seaborn
 
   **Key Findings:**
+  
         - The majority of the people on the Titanic were ranging from Age 18 to 35 (youth), whereas from age 60 and above were less represented.
         
         - The maximum number of the people on the Titanic did not have any sibling or spouse.
